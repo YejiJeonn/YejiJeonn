@@ -9,7 +9,9 @@
 
  </br>
 
- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilyjon)](https://solved.ac/lilyjon)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilyjon)](https://solved.ac/lilyjon)
+</br>
+![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=YejiJeonn&show_icons=true&theme=radical)
 
  </br>
 
