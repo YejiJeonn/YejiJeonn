@@ -7,8 +7,6 @@
  💻 Aspiring **BackEnd Developer** </br>
  ✨ Interested in **Java** and enjoy using **Spring Boot** </br>
 
-<hr/>
-
 **Blog** </br>
 
 **Language** </br>
