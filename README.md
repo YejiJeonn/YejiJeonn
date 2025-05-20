@@ -49,8 +49,9 @@ style=square : 작고 얇은 둥근 모서리 사각형
 style=for-the-badge : 크고 네모난 사각형
 -->
 
-
- </br>
+</br>
+<hr/>
+</br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilyjon)](https://solved.ac/lilyjon)
 
