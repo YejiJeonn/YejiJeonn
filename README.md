@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=FEBEBE&height=300&section=header&text=Hello%20Yeji%20World&fontSize=90&desc=BackEnd%20Developer&descAlign=76&descAlignY=70)
 
+<hr/>
+
+ 🙋🏻‍♀️ Hello! I'm Yeji Jeon </br>
+ 🏫 Student of **Department of Computer Science Engineering**, Inha Technical College
+ 💻 Aspiring **BackEnd Developer**
+ ✨ Interested in **Java** and enjoy using **Spring Boot**
+ 
 <!--
 **YejiJeonn/YejiJeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
