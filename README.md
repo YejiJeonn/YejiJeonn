@@ -8,6 +8,9 @@
  ✨ Interested in **Java** and enjoy using **Spring Boot** </br>
 
 **Blog** </br>
+<a href="https://velog.io/@nyezxxj/posts">
+<img src="https://img.shields.io/badge/Velog-20C997.svg?style=square&logo=velog&logoColor=white&height50"/>
+</a>
 
 **Language** </br>
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=square&logo=openjdk&logoColor=white)
