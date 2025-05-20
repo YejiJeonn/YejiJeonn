@@ -1,11 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=FEBEBE&height=300&section=header&text=Hello%20Yeji%20World&fontSize=90&desc=BackEnd%20Developer&descAlign=76&descAlignY=70)
 
-<hr/>
+<hr/>​
 
  🙋🏻‍♀️ Hello! I'm Yeji Jeon </br>
  🏫 Student of **Department of Computer Science Engineering**, Inha Technical College </br>
  💻 Aspiring **BackEnd Developer** </br>
  ✨ Interested in **Java** and enjoy using **Spring Boot** </br>
+
+ </br>
+
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilyjon)](https://solved.ac/lilyjon)
+
+ </br>
 
 **Blog** </br>
 <a href="https://velog.io/@nyezxxj/posts">
