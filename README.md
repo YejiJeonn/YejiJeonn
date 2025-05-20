@@ -34,11 +34,12 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=square&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=square&logo=Eclipse&logoColor=white)
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=square&logo=android-studio&logoColor=white"/>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=square&logo=github&logoColor=white)
 <img src="https://img.shields.io/badge/Notion-000000?style=square&logo=notion&logoColor=white&height50"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=square&logo=figma&logoColor=white&height50"/>
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=square&logo=googlecolab&logoColor=white)
+![Google Colab](	https://img.shields.io/badge/Colab-F9AB00?style=square&logo=googlecolab&color=525252)
 
 <!--
 style=square : 작고 얇은 둥근 모서리 사각형
