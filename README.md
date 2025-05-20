@@ -3,9 +3,21 @@
 <hr/>
 
  🙋🏻‍♀️ Hello! I'm Yeji Jeon </br>
- 🏫 Student of **Department of Computer Science Engineering**, Inha Technical College
- 💻 Aspiring **BackEnd Developer**
- ✨ Interested in **Java** and enjoy using **Spring Boot**
+ 🏫 Student of **Department of Computer Science Engineering**, Inha Technical College </br>
+ 💻 Aspiring **BackEnd Developer** </br>
+ ✨ Interested in **Java** and enjoy using **Spring Boot** </br>
+
+<hr/>
+
+**Blog**
+
+**Language**
+
+**BackEnd**
+
+**FrontEnd**
+
+**Tools**
  
 <!--
 **YejiJeonn/YejiJeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
