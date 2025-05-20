@@ -17,9 +17,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=square&logo=python&logoColor=ffdd54)
 
 **BackEnd** </br>
- <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=square&logo=Spring%20Boot&logoColor=white&height=50"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=square&logo=Spring%20Boot&logoColor=white&height=50"/>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=square&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=square&logo=JSON%20web%20tokens)
+<img src="https://img.shields.io/badge/ngrok-140648?style=square&logo=Ngrok&logoColor=white&height50"/>
 
 **FrontEnd** </br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=square&logo=html5&logoColor=white)
