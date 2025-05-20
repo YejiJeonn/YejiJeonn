@@ -7,14 +7,6 @@
  💻 Aspiring **BackEnd Developer** </br>
  ✨ Interested in **Java** and enjoy using **Spring Boot** </br>
 
- </br>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilyjon)](https://solved.ac/lilyjon)
-</br>
-![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=YejiJeonn&show_icons=true&theme=radical)
-
- </br>
-
 **Blog** </br>
 <a href="https://velog.io/@nyezxxj/posts">
 <img src="https://img.shields.io/badge/Velog-20C997.svg?style=square&logo=velog&logoColor=white&height50"/>
@@ -56,4 +48,14 @@
 style=square : 작고 얇은 둥근 모서리 사각형
 style=for-the-badge : 크고 네모난 사각형
 -->
- 
+
+
+ </br>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilyjon)](https://solved.ac/lilyjon)
+
+</br>
+
+![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=YejiJeonn&show_icons=true&theme=radical)
+
+ </br>
