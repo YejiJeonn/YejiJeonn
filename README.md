@@ -1,16 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=FEBEBE&height=300&section=header&text=Hello%20Yeji%20World&fontSize=90&fontColor=727272&desc=BackEnd%20Developer&descAlign=76&descAlignY=70)
 
-<hr/>​
+</br>
 
- 🙋🏻‍♀️ Hello! I'm Yeji Jeon </br>
- 🏫 Student of **Department of Computer Science Engineering**, Inha Technical College </br>
- 💻 Aspiring **BackEnd Developer** </br>
- ✨ Interested in **Java** and enjoy using **Spring Boot** </br>
+<h1>🙋🏻‍♀️ About Me 🙋🏻‍♀️</h1>
 
-**Blog** </br>
 <a href="https://velog.io/@nyezxxj/posts">
 <img src="https://img.shields.io/badge/Velog-20C997.svg?style=square&logo=velog&logoColor=white&height50"/>
 </a>
+
+🙌 Hello! I'm Yeji Jeon </br>
+🏫 Student of **Department of Computer Science Engineering**, Inha Technical College </br>
+💻 Aspiring **BackEnd Developer** </br>
+✨ Interested in **Java** and enjoy using **Spring Boot** </br>
+
+ </br>
+
+<h1>🚀 Tech Stack 🚀</h1>
 
 **Language** </br>
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=square&logo=openjdk&logoColor=white)
@@ -48,14 +53,18 @@ style=square : 작고 얇은 둥근 모서리 사각형
 style=for-the-badge : 크고 네모난 사각형
 -->
 
+ </br>
+
+<h1>🏆 Awards and Activities 🏆</h1>
+
+2025 ~ | ☁️ [kakao x goorm] 구름톤 유니브 4기 인하공전 부대표 </br>
+2024 ~ | ☁️ [kakao x goorm] 구름톤 유니브 4기 인하공전 소속 백엔드 </br>
+2024 ~ | 🏅 제1회 인하공업전문대학교 컴퓨터정보공학과 교내 해커톤 대회 대상 </br>
+2024 ~ | 🏫 인하공업전문대학 코딩테스트 전공 동아리 코끼리 부원 </br>
+2023 ~ | 🏫 인하공업전문대학 전공 멘토링 TOC 팀원 </br>
+
 </br>
-<hr/>
-</br>
+
+<h1>🧩 Algorithm Solving Skill 🧩</h1>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilyjon)](https://solved.ac/lilyjon)
-
-</br>
-
-![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=YejiJeonn&show_icons=true&theme=radical)
-
- </br>
