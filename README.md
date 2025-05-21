@@ -2,7 +2,7 @@
 
 </br>
 
-<h1>🙋🏻‍♀️ About Me 🙋🏻‍♀️</h1>
+<h1>🙋🏻‍♀️ About Me</h1>
 
 <a href="https://velog.io/@nyezxxj/posts">
 <img src="https://img.shields.io/badge/Velog-20C997.svg?style=square&logo=velog&logoColor=white&height50"/>
@@ -15,7 +15,7 @@
 
 </br>
 
-<h1>🏆 Awards and Activities 🏆</h1>
+<h1>🏆 Awards and Activities</h1>
 
 2025 ~ | ☁️ [kakao x goorm] 구름톤 유니브 4기 인하공전 부대표 </br>
 2024 ~ | ☁️ [kakao x goorm] 구름톤 유니브 4기 인하공전 소속 백엔드 </br>
@@ -25,7 +25,7 @@
 
 </br>
 
-<h1>🚀 Tech Stack 🚀</h1>
+<h1>🚀 Tech Stack</h1>
 
 **Language** </br>
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=square&logo=openjdk&logoColor=white)
@@ -65,6 +65,6 @@ style=for-the-badge : 크고 네모난 사각형
 
 </br>
 
-<h1>🧩 Algorithm Solving Skill 🧩</h1>
+<h1>🧩 Algorithm Solving Skill</h1>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilyjon)](https://solved.ac/lilyjon)
